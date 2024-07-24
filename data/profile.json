@@ -1,14 +1,14 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Felipe Linhares",
+  "photo": "https://avatars.githubusercontent.com/u/102616725?v=4",
+  "job": "Software Engineer",
+  "location": "São Gonçalo - RJ",
+  "phone": "(21) 99842-2983",
+  "email": "felinhares06@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
+        "name": "Python",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
@@ -34,7 +34,6 @@
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -42,37 +41,30 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (avançado)"
   ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/linhares06/js-developer-pokedex",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/linhares06/js-developer-portfolio",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Estágio em desenvolvimento de soluções utilizando a plataforma .NET / Pix Software",
+      "period": "2010",
+      "description": "Responsável por desenvolver e manter novos projetos, assim como manter e resolver bugs em sistemas existentes."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Engenheiro de Software Júnior / Lumis EIP",
+      "period": "2011 - 2015",
+      "description": "Desenvolvi e mantive portais web usando o framework Lumis, além de desenvolver aplicativos móveis com o Android SDK/Java para plataformas Android."
     }
   ]
 }
